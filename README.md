@@ -1,1 +1,1 @@
-self study.
+self study..
