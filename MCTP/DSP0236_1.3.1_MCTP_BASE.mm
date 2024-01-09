@@ -14,10 +14,23 @@
 <node CREATED="1704036868779" ID="ID_716814472" MODIFIED="1704036874232" TEXT="initialization messages"/>
 </node>
 <node CREATED="1704036910041" ID="ID_1685602858" MODIFIED="1704036911415" TEXT="MCTP is designed so that it can potentially be used on many bus types."/>
-<node CREATED="1704096953612" ID="ID_803090905" MODIFIED="1704097046700" TEXT="message terminus &#x4e09;&#x5143;&#x7ec4;">
+<node CREATED="1704096953612" ID="ID_803090905" MODIFIED="1704636445644" TEXT="message terminus &#x4e09;&#x5143;&#x7ec4;">
 <node CREATED="1704096963061" ID="ID_5241293" MODIFIED="1704097027262" TEXT="MCTP Source Endpoint ID"/>
 <node CREATED="1704096975368" ID="ID_42123791" MODIFIED="1704096983069" TEXT="Tag Owner bit"/>
 <node CREATED="1704096990377" ID="ID_1799746706" MODIFIED="1704096997256" TEXT="Message Tag"/>
+</node>
+<node CREATED="1704636447392" ID="ID_1065728174" MODIFIED="1704636449257" TEXT=" 7 MCTP overview">
+<node CREATED="1704636657395" ID="ID_580489689" MODIFIED="1704676077516">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="../../img/Figure%202%20&#x2013;%20MCTP%20networks.png" />
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </node>
